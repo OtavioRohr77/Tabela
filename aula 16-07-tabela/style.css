@@ -1,0 +1,100 @@
+.tabela{
+    width:1900px;
+    height:1100px;
+    border:1px solid black;
+}
+
+.coluna{
+    width:104px;
+    height:726px;
+    float:left;
+}
+
+.coluna2{
+    width:104px;
+    height:300px;
+    float:left;
+}
+
+.elemento{
+    width:100px;
+    height:100px;
+    border:2px solid black;
+}
+
+.elementot{
+    width:104px;
+    height:104px;
+    background-color:white;
+    border:3px; solid black;
+}
+
+.letra{
+    font-size:45px;
+    position:relative;
+    top:10px;
+    text-align:center;
+}
+
+.nome{
+    font-size:15px;
+    position:relative;
+    top:10px;
+    text-align: center;
+
+}
+
+.m{
+    font-size:15px;
+    position:relative;
+    top:10px;
+    text-align:center;
+}
+
+.z{
+    font-size: 20px;
+    position:relative;
+    bottom:85px;
+    left:72px;
+    
+}
+
+.verde{
+    background-color:greenyellow;
+}
+
+.laranja{
+    background-color:orange;
+}
+
+.amarelo{
+    background-color:yellow;
+}
+
+.rosa{
+    background-color: palevioletred;
+}
+
+.azulclaro{
+    background-color:lightskyblue;
+}
+
+.azulescuro{
+    background-color: lightseagreen;
+}
+
+.verdeescuro{
+    background-color:green;
+}
+
+.azulb{
+    background-color:rgb(53, 129, 242);
+}
+
+.azull{
+    background-color:aquamarine;
+}
+
+.roxo{
+    background-color:rgb(241, 64, 241)
+}
